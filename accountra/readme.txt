@@ -1,24 +1,23 @@
 === Accountra ===
 Contributors: Jegstudio
-Requires at least: 5.9
-Tested up to: 6.1
+Requires at least: 6.5
+Tested up to: 6.9
 Requires PHP: 7.0
-License: GPLv2 or later
-License URI: http://www.gnu.org/licenses/gpl-2.0.html
+License: GPLv3 or later
+License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
 == Description ==
 
-Accountra is a modern and responsive style theme template for WordPress fullsite editing and fully compatible with Gutenverse plugin. Accountra created especially for corporate website like Accounting Firm, Accountancy Agency, Tax Reporting, Finance Consultant, Accountant, Consulting Business, and Freelancer website for companies or individuals that need a modern landing page for their business. The templates includes both core version and Gutenverse plugin version, also has core and Gutenverse block patterns ready so you can start mix and match your template parts as you desire. The templates is built ready so you don't need to build it from scratch. We want to make your experience using WordPress fullsite editor more convenient.
-
+Accountra is an Accounting Firm WordPress Block Theme designed for businesses and professionals who want to build a clean and trustworthy financial website. Built with full site editing and powered by Gutenverse, this theme provides a flexible and modern platform to showcase accounting services, financial expertise, and business solutions with a professional and well-structured layout. Whether you run an accounting agency or provide independent consulting services, Accountra helps you present your expertise with clarity and credibility. It is ideal for accountants, tax consultants, bookkeeping services, financial advisors, and business consulting firms looking to establish a strong online presence. With responsive layouts, customizable block patterns, and organized page structures, you can easily highlight services, company profiles, client testimonials, and case studies. Optimized for performance and usability, Accountra enables you to create a reliable website that reflects your brand identity and expertise in Accounting Firm services. If you are looking for a scalable and professional solution, Accountra is a dependable Accounting Firm WordPress theme to grow your financial business online.
 
 == Copyright ==
 
-Accountra, 2022 Jegstudio
+Accountra, 2026 Jegstudio
 Accountra is distributed under the terms of the GNU GPL.
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
-the Free Software Foundation, either version 2 of the License, or
+the Free Software Foundation, either version 3 of the License, or
 (at your option) any later version.
 
 This program is distributed in the hope that it will be useful,
@@ -29,8 +28,8 @@ GNU General Public License for more details.
 Self designed images,
 * Logo 1 : accountra/assets/img/logo-accountra.webp
 * Logo 2 : accountra/assets/img/logo-accountra-2.webp
-Declaring these self designed images under GPL license version 2.0 =
-License URL: http://www.gnu.org/licenses/gpl-2.0.html
+Declaring these self designed images under GPL license version 3.0 =
+License URL: http://www.gnu.org/licenses/gpl-3.0.html
 
 Image for theme screenshot, Credit rawpixel.com
 License: CC0 1.0 Universal (CC0 1.0)
@@ -142,29 +141,34 @@ Source: https://pxhere.com/en/photo/593375
 
 == Changelog ==
 
-= 1.0.6 - 2024-05-17 =
+= 1.1.0 =
+* Update theme dashboard
+* Remove unused gutenverse templates
+* Improved: Overall performance and SEO optimization.
+
+= 1.0.6 =
 * Update Gutenverse template path
 * Remove unused core templates
 
-= 1.0.5 - 2024-03-21 =
+= 1.0.5 =
 * Update notice design
 
-= 1.0.4 - 2024-01-31 =
+= 1.0.4 =
 * Update Ajax
 
-= 1.0.3 - 2023-07-11 =
+= 1.0.3 =
 * Update theme dashboard
 * Fix post content inherit layout
 * Improve the loading of font assets.
 
-= 1.0.2 - 2022-11-16 =
+= 1.0.2 =
 * Add new gutenverse templates for 404, archive, index, page, and search
 * Use global fonts and colors in templates
 * Update page templates
 * Add new custom templates : blank canvas, and basic template
 
-= 1.0.1 - 2022-08-18 =
+= 1.0.1 =
 * Fix gutenverse templates load mechanism
 
-= 1.0.0 - 2022-07-04 =
+= 1.0.0 =
 * Initial release

@@ -1,364 +1,400 @@
-# Copyright (C) 2024 Jegstudio
+# Copyright (C) 2026 Jegstudio
 # This file is distributed under the GNU General Public License v3 or later..
 msgid ""
 msgstr ""
-"Project-Id-Version: Accountra 1.0.6\n"
-"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/accountra\n"
+"Project-Id-Version: Accountra 1.1.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/accountra-kacDKCf566yD\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"POT-Creation-Date: 2024-05-17T05:58:45+00:00\n"
+"POT-Creation-Date: 2026-05-12T07:05:13+00:00\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"X-Generator: WP-CLI 2.9.0\n"
+"X-Generator: WP-CLI 2.10.0\n"
 "X-Domain: accountra\n"
 
 #. Theme Name of the theme
+#: style.css
+#: inc/class/class-init.php:1718
 msgid "Accountra"
 msgstr ""
 
 #. Theme URI of the theme
-msgid "https://gutenverse.com/accountra-theme"
+#: style.css
+msgid "https://gutenverse.com/themes/accountra/"
 msgstr ""
 
 #. Description of the theme
-msgid "Accountra is a modern and responsive style theme template for WordPress fullsite editing and fully compatible with Gutenverse plugin. Accountra created especially for corporate website like Accounting Firm, Accountancy Agency, Tax Reporting, Finance Consultant, Accountant, Consulting Business, and Freelancer website for companies or individuals that need a modern landing page for their business. The templates includes both core version and Gutenverse plugin version, also has core and Gutenverse block patterns ready so you can start mix and match your template parts as you desire. The templates is built ready so you don't need to build it from scratch. We want to make your experience using WordPress fullsite editor more convenient."
+#: style.css
+#: inc/class/class-init.php:1719
+msgid "Accountra is an Accounting Firm WordPress Block Theme designed for businesses and professionals who want to build a clean and trustworthy financial website. Built with full site editing and powered by Gutenverse, this theme provides a flexible and modern platform to showcase accounting services, financial expertise, and business solutions with a professional and well-structured layout. Whether you run an accounting agency or provide independent consulting services, Accountra helps you present your expertise with clarity and credibility. It is ideal for accountants, tax consultants, bookkeeping services, financial advisors, and business consulting firms looking to establish a strong online presence. With responsive layouts, customizable block patterns, and organized page structures, you can easily highlight services, company profiles, client testimonials, and case studies. Optimized for performance and usability, Accountra enables you to create a reliable website that reflects your brand identity and expertise in Accounting Firm services. If you are looking for a scalable and professional solution, Accountra is a dependable Accounting Firm WordPress theme to grow your financial business online."
 msgstr ""
 
 #. Author of the theme
+#: style.css
 msgid "Jegstudio"
 msgstr ""
 
 #. Author URI of the theme
+#: style.css
 msgid "https://gutenverse.com"
 msgstr ""
 
 #: inc/class/class-block-patterns.php:57
-msgid "Accountra Basic Patterns"
+msgid "Accountra Core Patterns"
 msgstr ""
 
 #: inc/class/class-block-patterns.php:61
 msgid "Accountra Gutenverse Patterns"
 msgstr ""
 
-#: inc/class/class-block-styles.php:58
-msgid "Button Fill 1"
+#: inc/class/class-block-patterns.php:62
+msgid "Accountra Gutenverse PRO Patterns"
 msgstr ""
 
-#: inc/class/class-block-styles.php:66
-msgid "Button Fill 2"
+#: inc/class/class-init.php:1720
+msgid "Plugin Requirement"
 msgstr ""
 
-#: inc/class/class-block-styles.php:74
-#: inc/class/class-block-styles.php:82
-#: inc/class/class-block-styles.php:90
-msgid "Box Shadow"
+#: inc/class/class-init.php:1721
+msgid "This theme require some plugins. Please make sure all the plugin below are installed and activated."
 msgstr ""
 
-#: inc/class/class-block-styles.php:98
-#: inc/class/class-block-styles.php:106
-#: inc/class/class-block-styles.php:114
-msgid "Box Shadow on Hover"
+#: inc/class/class-init.php:1727
+msgid "Install Gutenverse Plugin"
 msgstr ""
 
-#: inc/class/class-init.php:723
-msgid "Install Required Plugins"
+#: inc/class/class-init.php:1728
+msgid "Activate Gutenverse Plugin"
 msgstr ""
 
-#: inc/class/class-init.php:972
-msgid "Take Your Website To New Height with"
+#: inc/class/class-init.php:1729
+msgid "Gutenverse Plugin Installed"
 msgstr ""
 
-#: inc/class/class-init.php:973
-msgid "Accountra theme work best with Gutenverse plugin. By installing Gutenverse plugin you may access Accountra templates built with Gutenverse and get access to more than 40 free blocks, hundred free Layout and Section."
+#: inc/class/class-init.php:1743
+#: inc/class/class-plugin-notice.php:90
+msgid "Gutenverse"
 msgstr ""
 
-#: inc/class/class-init.php:1011
-msgid "Please install newer version of Gutenverse plugin! (v1.1.2 and above)"
+#: inc/class/class-init.php:1744
+#: inc/class/class-plugin-notice.php:91
+msgid "Gutenverse is a WordPress blocks plugin, page builder, and website builder for the native Block Editor and Site Editor. Create fast, responsive websites without code using 57 blocks, 600+ templates, global styles, responsive controls, popup builder tools, and block theme support."
 msgstr ""
 
-#: inc/class/class-init.php:1056
-msgid "Primary"
+#: inc/class/class-init.php:1757
+#: inc/class/class-plugin-notice.php:104
+msgid "Gutenverse Companion"
 msgstr ""
 
-#: inc/class/class-upgrader.php:123
-#: inc/class/class-upgrader.php:169
-msgid "%s Upgrade Notice!"
+#: inc/class/class-init.php:1758
+#: inc/class/class-plugin-notice.php:105
+msgid "A companion plugin designed specifically to enhance and extend the functionality of Gutenverse base themes. This plugin integrates seamlessly with the base themes, providing additional features, customization options, and advanced tools to optimize the overall user experience and streamline the development process."
 msgstr ""
 
-#: inc/class/class-upgrader.php:125
-msgid "There are some new exciting updates we want to announce. This update will required the latest version of Gutenverse plugin to work smoothly, so we recommend to update your Gutenverse plugin."
+#: inc/class/class-init.php:1770
+#: inc/class/class-plugin-notice.php:117
+msgid "Gutenverse Form"
 msgstr ""
 
-#: inc/class/class-upgrader.php:131
-msgid "Go to plugin page"
+#: inc/class/class-init.php:1771
+#: inc/class/class-plugin-notice.php:118
+msgid "Gutenverse Form is a WordPress form plugin, contact form builder, block form plugin, and booking form builder for the native Block Editor. Create contact forms, booking forms, reservation forms, subscribe forms, lead forms, feedback forms, and custom WordPress forms without code."
 msgstr ""
 
-#: inc/class/class-upgrader.php:135
-#: inc/class/class-upgrader.php:179
-msgid "Close notification"
+#: inc/class/class-init.php:1797
+msgid "Accountra Pro"
 msgstr ""
 
-#: inc/class/class-upgrader.php:171
-msgid "We've made some changes to page content layout and global style. Please check "
+#: inc/class/class-init.php:1860
+msgid "You don't have any demo activated"
 msgstr ""
 
-#: inc/class/class-upgrader.php:172
-msgid "your pages"
+#: inc/class/class-init.php:1928
+#: inc/class/class-init.php:1930
+#: inc/class/class-init.php:1931
+msgid "unknown"
 msgstr ""
 
-#: inc/class/class-upgrader.php:173
-msgid " to see how the new layout looks on your site. You can always revert back by enable the inherit layout option on the "
+#: inc/class/class-init.php:1933
+msgid "by"
 msgstr ""
 
-#: inc/class/class-upgrader.php:174
-msgid "Gutenverse settings."
+#: inc/class/class-init.php:1955
+#: inc/class/class-init.php:1956
+msgid "Accountra Dashboard"
 msgstr ""
 
-#: inc/class/class-upgrader.php:175
-msgid " dashboard. Learn more about new layout on "
+#: inc/class/class-plugin-notice.php:347
+msgid "Installing..."
 msgstr ""
 
-#: inc/class/class-upgrader.php:176
-msgid "this page."
+#: inc/class/class-plugin-notice.php:387
+msgid "Install Failed, Try Again"
 msgstr ""
 
-#: inc/class/class-upgrader.php:181
-msgid "Got Question?"
+#: inc/class/class-plugin-notice.php:401
+msgid "Thank you For Installing Accountra Theme"
 msgstr ""
 
-#: inc/patterns/core-404.php:6
+#: inc/class/class-plugin-notice.php:403
+msgid "Unlock the full potential of your website with the recommended plugins."
+msgstr ""
+
+#: inc/class/class-plugin-notice.php:405
+msgid "Activate it to explore exclusive extensions, ready-to-use demo templates, and powerful features that make building your site easier and more enjoyable."
+msgstr ""
+
+#: inc/class/class-plugin-notice.php:409
+msgid "Install Recommended Plugins"
+msgstr ""
+
+#: inc/class/class-plugin-notice.php:413
+msgid "Don\\'t refresh the page when installing recommended plugins"
+msgstr ""
+
+#: inc/patterns/accountra-core-404.php:6
 msgid "Core 404"
 msgstr ""
 
-#: inc/patterns/core-archive-hero-title.php:6
+#: inc/patterns/accountra-core-archive-hero-title.php:6
 msgid "Core Archive Hero"
 msgstr ""
 
-#: inc/patterns/core-footer.php:6
+#: inc/patterns/accountra-core-footer.php:6
 msgid "Core Footer"
 msgstr ""
 
-#: inc/patterns/core-header.php:6
+#: inc/patterns/accountra-core-funfact-home.php:6
+msgid "Accountra Core Funfact Home"
+msgstr ""
+
+#: inc/patterns/accountra-core-header.php:6
 msgid "Core Header"
 msgstr ""
 
-#: inc/patterns/core-home-about.php:6
+#: inc/patterns/accountra-core-home-about.php:6
 msgid "Core Home About"
 msgstr ""
 
-#: inc/patterns/core-home-background-cases-studies.php:6
+#: inc/patterns/accountra-core-home-background-cases-studies.php:6
 msgid "Core Home BG Case Study"
 msgstr ""
 
-#: inc/patterns/core-home-cases-studies.php:6
+#: inc/patterns/accountra-core-home-cases-studies.php:6
 msgid "Core Home Case Study"
 msgstr ""
 
-#: inc/patterns/core-home-clients-feedback.php:6
+#: inc/patterns/accountra-core-home-clients-feedback.php:6
 msgid "Core Home Client Feedback"
 msgstr ""
 
-#: inc/patterns/core-home-cta.php:6
+#: inc/patterns/accountra-core-home-cta.php:6
 msgid "Core Home CTA"
 msgstr ""
 
-#: inc/patterns/core-home-fun-fact.php:6
-msgid "Core Home Fun Fact"
-msgstr ""
-
-#: inc/patterns/core-home-hero.php:6
+#: inc/patterns/accountra-core-home-hero.php:6
 msgid "Core Home Hero"
 msgstr ""
 
-#: inc/patterns/core-home-service.php:6
+#: inc/patterns/accountra-core-home-service.php:6
 msgid "Core Home Service"
 msgstr ""
 
-#: inc/patterns/core-index-hero-title.php:6
+#: inc/patterns/accountra-core-index-hero-title.php:6
 msgid "Core Index Hero"
 msgstr ""
 
-#: inc/patterns/core-page-title.php:6
+#: inc/patterns/accountra-core-page-title.php:6
 msgid "Core Page Title"
 msgstr ""
 
-#: inc/patterns/core-search-hero-title.php:6
+#: inc/patterns/accountra-core-search-hero-title.php:6
 msgid "Core Search Hero"
 msgstr ""
 
-#: inc/patterns/core-single-post-title.php:6
+#: inc/patterns/accountra-core-single-post-title.php:6
 msgid "Core Single Post Title"
 msgstr ""
 
-#: inc/patterns/gutenverse-404-hero.php:6
+#: inc/patterns/accountra-gutenverse-404-hero.php:6
 msgid "Gutenverse 404 Hero"
 msgstr ""
 
-#: inc/patterns/gutenverse-about-about.php:6
+#: inc/patterns/accountra-gutenverse-about-about.php:6
 msgid "Gutenverse About"
 msgstr ""
 
-#: inc/patterns/gutenverse-about-cta.php:6
+#: inc/patterns/accountra-gutenverse-about-cta.php:6
 msgid "Gutenverse About CTA"
 msgstr ""
 
-#: inc/patterns/gutenverse-about-team.php:6
-msgid "Gutenverse About Team"
-msgstr ""
-
-#: inc/patterns/gutenverse-about-title.php:6
-msgid "Gutenverse About Title"
-msgstr ""
-
-#: inc/patterns/gutenverse-about-work.php:6
-msgid "Gutenverse About Work"
-msgstr ""
-
-#: inc/patterns/gutenverse-archive-posts.php:6
+#: inc/patterns/accountra-gutenverse-archive-posts.php:6
 msgid "Gutenverse Archive Posts"
 msgstr ""
 
-#: inc/patterns/gutenverse-archive-title.php:6
+#: inc/patterns/accountra-gutenverse-archive-title.php:6
 msgid "Gutenverse Archive Title"
 msgstr ""
 
-#: inc/patterns/gutenverse-blog-title.php:6
-msgid "Gutenverse Blog Title"
-msgstr ""
-
-#: inc/patterns/gutenverse-cases-blog.php:6
-msgid "Gutenverse Cases Blog"
-msgstr ""
-
-#: inc/patterns/gutenverse-cases-cases-studies.php:6
-msgid "Gutenverse Cases Studies"
-msgstr ""
-
-#: inc/patterns/gutenverse-cases-cta.php:6
-msgid "Gutenverse Cases CTA"
-msgstr ""
-
-#: inc/patterns/gutenverse-cases-title.php:6
-msgid "Gutenverse Cases Title"
-msgstr ""
-
-#: inc/patterns/gutenverse-contact-title.php:6
-msgid "Gutenverse Contact Title"
-msgstr ""
-
-#: inc/patterns/gutenverse-faq-cta.php:6
-msgid "Gutenverse FAQ CTA"
-msgstr ""
-
-#: inc/patterns/gutenverse-faq-title.php:6
-msgid "Gutenverse FAQ Title"
-msgstr ""
-
-#: inc/patterns/gutenverse-footer.php:6
+#: inc/patterns/accountra-gutenverse-footer.php:6
 msgid "Gutenverse Footer"
 msgstr ""
 
-#: inc/patterns/gutenverse-header.php:6
+#: inc/patterns/accountra-gutenverse-header.php:6
 msgid "Gutenverse Header"
 msgstr ""
 
-#: inc/patterns/gutenverse-home-about.php:6
-msgid "Gutenverse Home About"
-msgstr ""
-
-#: inc/patterns/gutenverse-home-blog.php:6
+#: inc/patterns/accountra-gutenverse-home-blog.php:6
 msgid "Gutenverse Home Blog"
 msgstr ""
 
-#: inc/patterns/gutenverse-home-case-studies.php:6
+#: inc/patterns/accountra-gutenverse-home-case-studies.php:6
 msgid "Gutenverse Home Studies"
 msgstr ""
 
-#: inc/patterns/gutenverse-home-clients-feedback.php:6
+#: inc/patterns/accountra-gutenverse-home-clients-feedback.php:6
 msgid "Gutenverse Home Client Feedback"
 msgstr ""
 
-#: inc/patterns/gutenverse-home-cta.php:6
-msgid "Gutenverse Home CTA"
+#: inc/patterns/accountra-gutenverse-home-fun-fact.php:6
+msgid "Gutenverse Home Fun Fact"
 msgstr ""
 
-#: inc/patterns/gutenverse-home-hero.php:6
+#: inc/patterns/accountra-gutenverse-home-hero.php:6
 msgid "Gutenverse Home Hero"
 msgstr ""
 
-#: inc/patterns/gutenverse-index-posts.php:6
+#: inc/patterns/accountra-gutenverse-index-posts.php:6
 msgid "Gutenverse Index Posts"
 msgstr ""
 
-#: inc/patterns/gutenverse-index-title.php:6
+#: inc/patterns/accountra-gutenverse-index-title.php:6
 msgid "Gutenverse Index Title"
 msgstr ""
 
-#: inc/patterns/gutenverse-page-posts.php:6
+#: inc/patterns/accountra-gutenverse-page-posts.php:6
 msgid "Gutenverse Page Posts"
 msgstr ""
 
-#: inc/patterns/gutenverse-page-title.php:6
+#: inc/patterns/accountra-gutenverse-page-title.php:6
 msgid "Gutenverse Page Title"
 msgstr ""
 
-#: inc/patterns/gutenverse-pricing-clients-feedback.php:6
-msgid "Gutenverse Pricing Client Feedback"
-msgstr ""
-
-#: inc/patterns/gutenverse-pricing-faq.php:6
-msgid "Gutenverse Pricing FAQ"
-msgstr ""
-
-#: inc/patterns/gutenverse-pricing-title.php:6
-msgid "Gutenverse Pricing Title"
-msgstr ""
-
-#: inc/patterns/gutenverse-search-posts.php:6
+#: inc/patterns/accountra-gutenverse-search-posts.php:6
 msgid "Gutenverse Search Posts"
 msgstr ""
 
-#: inc/patterns/gutenverse-search-search.php:6
+#: inc/patterns/accountra-gutenverse-search-search.php:6
 msgid "Gutenverse Search Section 1"
 msgstr ""
 
-#: inc/patterns/gutenverse-search-title.php:6
+#: inc/patterns/accountra-gutenverse-search-title.php:6
 msgid "Gutenverse Search Title"
 msgstr ""
 
-#: inc/patterns/gutenverse-services-clients-feedback.php:6
-msgid "Gutenverse Services Client Feedback"
+#: inc/patterns/accountra-gutenverse-service.php:6
+msgid "Accountra Gutenverse Service"
 msgstr ""
 
-#: inc/patterns/gutenverse-services-cta.php:6
-msgid "Gutenverse Services CTA"
-msgstr ""
-
-#: inc/patterns/gutenverse-services-faq.php:6
-msgid "Gutenverse Services FAQ"
-msgstr ""
-
-#: inc/patterns/gutenverse-services-title.php:6
-msgid "Gutenverse Services Title"
-msgstr ""
-
-#: inc/patterns/gutenverse-services-work.php:6
-msgid "Gutenverse Services Work"
-msgstr ""
-
-#: inc/patterns/gutenverse-single-post-title.php:6
+#: inc/patterns/accountra-gutenverse-single-post-title.php:6
 msgid "Gutenverse Single Post Title"
 msgstr ""
 
-#: index.php:4
-msgid "This theme was built for the WordPress full-site-editing feature. You need to install and activate the Gutenberg plugin to make it work. "
+#: theme.json
+msgctxt "Custom template name"
+msgid "Blank canvas"
+msgstr ""
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Full Width"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Primary (Legacy)"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Secondary (Legacy)"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Third (Legacy)"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Forth (Legacy)"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Fifth (Legacy)"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Sixth (Legacy)"
 msgstr ""
 
 #: theme.json
 msgctxt "Color name"
 msgid "Primary"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Text Primary"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Text Secondary"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Text Placeholder"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Accent"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Accent Hover"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Border"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Border Input"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Background Primary"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Background Secondary"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Background Tertiary"
 msgstr ""
 
 #: theme.json
@@ -368,32 +404,72 @@ msgstr ""
 
 #: theme.json
 msgctxt "Color name"
-msgid "Third"
+msgid "White"
 msgstr ""
 
 #: theme.json
 msgctxt "Color name"
-msgid "Forth"
+msgid "Dark Primary"
 msgstr ""
 
 #: theme.json
 msgctxt "Color name"
-msgid "Fifth"
+msgid "Dark Text Primary"
 msgstr ""
 
 #: theme.json
 msgctxt "Color name"
-msgid "Sixth"
+msgid "Dark Text Secondary"
 msgstr ""
 
 #: theme.json
-msgctxt "Gradient name"
-msgid "Pink to Yellow"
+msgctxt "Color name"
+msgid "Dark Accent"
 msgstr ""
 
 #: theme.json
-msgctxt "Font family name"
-msgid "Poppins"
+msgctxt "Color name"
+msgid "Dark Accent Hover"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Dark Background Primary"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Dark Background Secondary"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Dark Background Tertiary"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Dark Border"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Dark Border Input"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Dark Text Placeholder"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Dark Secondary"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Black"
 msgstr ""
 
 #: theme.json
@@ -402,8 +478,8 @@ msgid "Heebo"
 msgstr ""
 
 #: theme.json
-msgctxt "Font size name"
-msgid "Tiny"
+msgctxt "Font family name"
+msgid "Poppins"
 msgstr ""
 
 #: theme.json
@@ -413,7 +489,7 @@ msgstr ""
 
 #: theme.json
 msgctxt "Font size name"
-msgid "Normal"
+msgid "Medium"
 msgstr ""
 
 #: theme.json
@@ -423,25 +499,35 @@ msgstr ""
 
 #: theme.json
 msgctxt "Font size name"
-msgid "Extra large"
+msgid "Extra Large"
 msgstr ""
 
 #: theme.json
 msgctxt "Font size name"
-msgid "Huge"
+msgid "H1"
 msgstr ""
 
 #: theme.json
 msgctxt "Font size name"
-msgid "Gigantic"
+msgid "H2"
 msgstr ""
 
 #: theme.json
-msgctxt "Custom template name"
-msgid "Blank Canvas"
+msgctxt "Font size name"
+msgid "H3"
 msgstr ""
 
 #: theme.json
-msgctxt "Custom template name"
-msgid "Basic Template"
+msgctxt "Font size name"
+msgid "H4"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "H5"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "H6"
 msgstr ""

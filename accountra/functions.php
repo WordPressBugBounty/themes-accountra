@@ -1,22 +1,21 @@
 <?php
 /**
- * Accountra functions and definitions
+ * Theme Functions
  *
  * @author Jegstudio
  * @package accountra
- * @since 1.0.0
  */
 
 if ( ! defined( 'ABSPATH' ) ) {
 	exit;
 }
 
-defined( 'ACCOUNTRA_VERSION' ) || define( 'ACCOUNTRA_VERSION', '1.0.6' );
+defined( 'ACCOUNTRA_VERSION' ) || define( 'ACCOUNTRA_VERSION', '1.1.0' );
 defined( 'ACCOUNTRA_DIR' ) || define( 'ACCOUNTRA_DIR', trailingslashit( get_template_directory() ) );
-defined( 'ACCOUNTRA_URI' ) || define( 'ACCOUNTRA_URI', trailingslashit( get_template_directory_uri() ) );
+
+defined( 'GUTENVERSE_COMPANION_REQUIRED_VERSION' ) || define( 'GUTENVERSE_COMPANION_REQUIRED_VERSION', '2.3.3' );
+defined( 'GUTENVERSE_LIBRARY_SERVER' ) || define( 'GUTENVERSE_LIBRARY_SERVER', 'https://gutenverse.com' );
 
 require get_parent_theme_file_path( 'inc/autoload.php' );
-require get_parent_theme_file_path( 'inc/helper.php' );
-require get_parent_theme_file_path( 'inc/wptt-webfont-loader.php' );
 
 Accountra\Init::instance();
